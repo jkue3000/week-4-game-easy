@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	padding-bottom: 30px;
+}
+
+.instructions {
+	font-color:black;
+	font-size: 21px;
+	line-height: 31.5px;
+	background-color: yellow;
+	padding: 10px;
+}
+
+.btn{
+	width: 130px;
+	height: 130px;
+	display: inline-block;
+	margin: auto;
+}
+
+.buttonContainerRow{
+	padding-top: 20px;
+}
